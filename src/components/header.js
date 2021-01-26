@@ -1,4 +1,4 @@
-import react from 'react'
+import React from 'react'
 import { makeStyles } from '@material-ui/core/styles';
 import { Link } from 'react-scroll'
 import AppBar from '@material-ui/core/AppBar';

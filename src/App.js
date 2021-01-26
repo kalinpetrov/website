@@ -1,6 +1,3 @@
-import logo from './logo.svg';
-import './App.css';
-
 import Header from './components/header';
 import Home from './components/home';
 import Hobbies from './components/hobbies';

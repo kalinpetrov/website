@@ -96,7 +96,7 @@ export default function Hobbies() {
   const hobbyCard = (hobby, image) => {
 
     return (
-      <Grid item md={6} sm={12} align='center' className={classes.gridItem}>
+      <Grid item lg={6} sm={12} align='center' className={classes.gridItem}>
         <Card className={classes.card}>
           <CardMedia
             className={classes.media}
